@@ -11,6 +11,8 @@ public class ArrangeInAscending {
         List<Integer> list = new ArrayList<>(Arrays.asList(arr));
         System.out.println(list);
         Collections.sort(list);
+        
+        System.out.print("By git demo");
 
     }
 }
